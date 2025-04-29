@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Diseñador+UX%2FUI+%F0%9F%92%A1;Diseñador+Multimedia+%F0%9F%8E%A8;Data+Analyst+%F0%9F%93%8A" alt="Typing SVG" />
 </p>
+
 ---
 
 ### ✨ Sobre mí
