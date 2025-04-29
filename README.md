@@ -46,13 +46,19 @@ Pequeñas escenas interactivas 3D para web, combinando diseño, animación y có
 
 ---
 
-### 🔗 Conecta conmigo
+### 🌱 Actualmente
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://TU-PORTAFOLIO.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/domain.png" alt="Portafolio" width="40" height="40"/>
-  </a>
-</p>
+- 🌍 Me interesa colaborar en productos digitales con impacto  
+- 📚 Estoy aprendiendo más sobre animaciones, diseño inclusivo y tecnologías interactivas  
+- 🤝 Abierto a proyectos freelance o colaboraciones creativas
+
+---
+
+### 📫 ¿Conectamos?
+
+Puedes encontrarme también en:
+
+- [LinkedIn](https://www.linkedin.com/in/jose-neira-sandoval/)  
+- [Behance](https://www.behance.net/josens)
+- [Portafollio](https://joseneira.vercel.app)
+- o simplemente salúdame aquí en GitHub ⭐  
