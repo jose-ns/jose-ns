@@ -30,12 +30,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Proyectos Destacados
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jose-ns&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-ns&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+🎨 **Alura Store Analytics**  
+Análisis de datos de ventas con Python y pandas para identificar oportunidades de mejora.  
+> 📊 Data · 🐍 Python · 📈 Matplotlib
+
+🌿 **Mi asistente de plantas**  
+Un asistente virtual para el cuidado de plantas usando diseño UX y principios de accesibilidad.  
+> 🌱 UX/UI · 📱 Prototipo Figma · 🧠 Diseño centrado en el usuario
+
+🧪 **Exploraciones con Three.js**  
+Pequeñas escenas interactivas 3D para web, combinando diseño, animación y código.  
+> 🎮 3D Web · 🎨 Blender + Three.js · 🌐 HTML/CSS/JS
 
 ---
 
