@@ -58,7 +58,7 @@ Pequeñas escenas interactivas 3D para web, combinando diseño, animación y có
 
 Puedes encontrarme también en:
 
-- [LinkedIn](https://www.linkedin.com/in/jose-neira-sandoval/)  
-- [Behance](https://www.behance.net/josens)
-- [Portafollio](https://joseneira.vercel.app)
+- <a href="https://www.linkedin.com/in/jose-neira-sandoval/" target="_blank">LinkedIn</a>
+- <a href="https://www.behance.net/josens" target="_blank">Behance</a>
+- <a href="https://joseneira.vercel.app" target="_blank">Portfolio</a>
 - o simplemente salúdame aquí en GitHub ⭐  
