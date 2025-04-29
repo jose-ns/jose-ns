@@ -1,16 +1,51 @@
-## Hi there 👋
+<h1 align="center">¡Hola! 👋 Soy José</h1>
 
-<!--
-**jose-ns/jose-ns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Diseñador+UX%2FUI+%F0%9F%92%A1;Apasionado+por+el+3D+y+la+interactividad+web;Siempre+aprendiendo+y+explorando" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ Sobre mí
+
+- 🎨 Diseñador multimedia especializado en UX/UI.
+- 🌐 Me encanta combinar diseño, código y animación para crear experiencias digitales únicas.
+- 🧑‍💻 Interesado en tecnologías como **Three.js**, **React**, y diseño accesible.
+- 🌱 Siempre aprendiendo y colaborando en proyectos sociales y creativos.
+- 🎯 Apasionado por el diseño centrado en el usuario y las soluciones con propósito.
+
+---
+
+### 🧰 Tecnologías y herramientas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jose-ns&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-ns&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🔗 Conecta conmigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/TU-LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://TU-PORTAFOLIO.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/domain.png" alt="Portafolio" width="40" height="40"/>
+  </a>
+</p>
