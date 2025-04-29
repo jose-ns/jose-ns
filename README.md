@@ -9,7 +9,7 @@
 ### ✨ Sobre mí
 
 - 🎨 Diseñador multimedia especializado en UX/UI.
-- 🌐 Me encanta combinar diseño, código y animación para crear experiencias digitales únicas.
+- 🌐 Me encanta combinar diseño y código para crear experiencias digitales únicas.
 - 🧑‍💻 Interesado en tecnologías como **Three.js**, **React**, y diseño accesible.
 - 🌱 Siempre aprendiendo y colaborando en proyectos sociales y creativos.
 - 🎯 Apasionado por el diseño centrado en el usuario y las soluciones con propósito.
@@ -60,5 +60,5 @@ Puedes encontrarme también en:
 
 - [LinkedIn](https://www.linkedin.com/in/jose-neira-sandoval/)
 - [Behance](https://www.behance.net/josens)
-- [Portafolio]([https://github.com/jose-ns](https://joseneira.vercel.app))
+- [Portafolio](https://joseneira.vercel.app)
 - o simplemente salúdame aquí en GitHub ⭐  
