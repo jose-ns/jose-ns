@@ -48,7 +48,7 @@ Análisis de datos de ventas para identificar oportunidades de mejora.
 ### 🌱 Actualmente
 
 - 🌍 Interesado en colaborar en productos digitales  
-- 📚 Aprendiendo más sobre animaciones, diseño inclusivo y tecnologías interactivas  
+- 📚 Aprendiendo más sobre 3D, diseño inclusivo y tecnologías interactivas  
 - 🤝 Abierto a proyectos freelance o colaboraciones creativas  
 
 ---
